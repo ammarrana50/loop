@@ -18,4 +18,4 @@ Execute `wp loop delete_all_events` to delete all the existing events in WordPre
 
 ## Endpoints/URLs
 Send a GET request `https://localhost/loop/wp-json/api/v1/events` to fetch all events in JSON format.
-List all events in event archive: `https://localhost/loop/events/`
+List all events in event archive: `https://localhost/loop/events/`.
