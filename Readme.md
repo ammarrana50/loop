@@ -16,5 +16,6 @@ Execute `wp loop import_events_in_json` to import all the events from JSON file.
 Execute `wp loop export_events_in_json` to export all the events to JSON file.   
 Execute `wp loop delete_all_events` to delete all the existing events in WordPress.   
 
-## Endpoints
+## Endpoints/URLs
 Send a GET request `https://localhost/loop/wp-json/api/v1/events` to fetch all events in JSON format.
+List all events in event archive: `https://localhost/loop/events/`
