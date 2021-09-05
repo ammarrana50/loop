@@ -7,7 +7,8 @@ Clone this repository inside `htdocs` directory on your localhost or your server
 ## Working with WP_CLI
 
 ### Pre-Req
-wp_cli should be installed to execute the commands.
+wp_cli should be installed to execute the commands.  
+SMTP server should be setup to send an email.
 
 ### Commands
 Place the `events.json` file in `\wp-content\plugins\event-manager`  

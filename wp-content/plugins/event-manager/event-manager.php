@@ -88,7 +88,7 @@ class LOOP_WP_CLI_COMMANDS extends WP_CLI_Command
 		echo "\nUpdated Posts: " . $count_updated_posts;
 		echo "\n";
 
-		$to_email = "ammarrana50@gmail.com";
+		$to_email = "logging@agentur-loop.com";
 		$subject = "Event Import Update";
 		$body = "New Posts: " . $count_new_imported_posts . "\nUpdated Posts: " . $count_updated_posts;
 		$headers = "From: sender\'s email";
